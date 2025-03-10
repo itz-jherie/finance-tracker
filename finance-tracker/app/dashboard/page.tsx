@@ -5,7 +5,6 @@ import { useRouter } from "next/navigation";
 import { useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Navbar } from "@/components/Navbar";
-import TestFirestore from "@/components/TestFirestore";
 import AddTransactionForm from "@/components/AddTransactionForm";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
